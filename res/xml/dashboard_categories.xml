@@ -72,12 +72,12 @@
 
     </dashboard-category>
 
+        <!-- MOKP Personalization -->
     <dashboard-category
             android:id="@+id/device_personalization"
             android:title="@string/personalization" >
-        <!-- MOKP Personalization -->
+
         <dashboard-tile
-                android:id="@+id/main_settings"
                 android:title="@string/mokp_settings_title"
                 android:fragment="com.android.settings.mokp.MainSettings"
                 android:icon="@drawable/ic_mokp_mod"

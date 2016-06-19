@@ -23,4 +23,5 @@
                 android:title="@string/power_menu_title"
                 android:fragment="com.android.settings.mokp.PowerSettings"
                 />
-<!-- Next -->
+
+</PreferenceScreen>

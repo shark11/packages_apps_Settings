@@ -46,6 +46,7 @@
     <!-- MOKP Strings -->
     <string name="personalization">Personalization</string>
     <string name="mokp_settings_title">MOKP Settings</string>
+    <string name="power_menu_title">Power Menu</string>
 
     <!-- About phone screen, MOKP version -->
     <string name="mokp_mod_version">MOKP version</string>
