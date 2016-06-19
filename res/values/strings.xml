@@ -43,7 +43,15 @@
     <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
     <string name="show_dev_already">No need, you are already a developer.</string>
 
-    <!-- Category headings in left-pane header menu --> <skip />
+    <!-- MOKP Strings -->
+    <string name="personalization">Personalization</string>
+    <string name="mokp_settings_title">MOKP Settings</string>
+
+    <!-- About phone screen, MOKP version -->
+    <string name="mokp_mod_version">MOKP version</string>
+    <string name="mod_version_default">Unknown</string>
+   
+ <!-- Category headings in left-pane header menu --> <skip />
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
     <string name="header_category_wireless_networks">Wireless &amp; networks</string>
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
